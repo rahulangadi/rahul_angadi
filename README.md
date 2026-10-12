@@ -1,28 +1,16 @@
 
-<!-- ================================================== -->
-<!-- RAHUL ANGADI | PROFESSIONAL GITHUB PROFILE README -->
-<!-- ================================================== -->
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rahulangadi/rahul_angadi/main/Rahul.png"
-    width="150"
-    alt="Rahul Angadi"
-  />
-</p>
-
-<h1 align="center">Hi, I'm Rahul Angadi 👋</h1>
+<h1 align="center">Rahul Angadi</h1>
 
 <h3 align="center">
-  Electronics & Communication Engineering | Embedded Systems | IoT | VLSI
+  ECE Student | Embedded Systems | IoT | VLSI
 </h3>
 
 <p align="center">
   <a href="https://github.com/rahulangadi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/rahulangadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:rahulangadi2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -33,45 +21,49 @@
 
 ## 👨‍💻 About Me
 
-I'm an Electronics & Communication Engineering student passionate about **Embedded Systems, IoT, and VLSI Design**.
+I'm an Electronics & Communication Engineering student passionate about Embedded Systems, IoT, and VLSI Design. I enjoy transforming ideas into practical engineering solutions by combining hardware, firmware, sensors, and software.
 
-I enjoy transforming ideas into practical engineering solutions by combining hardware, firmware, sensors, and software. Through hands-on projects using ESP32, Arduino, and microcontrollers, I continuously explore new technologies, solve technical challenges, and develop my engineering skills.
+Through hands-on projects using ESP32, Arduino, and microcontrollers, I continuously explore new technologies, solve technical challenges, and develop my engineering skills.
 
-🎯 My goal is to contribute to innovative technologies in embedded engineering and semiconductor design.
+My goal is to contribute to innovative technologies in embedded engineering and semiconductor design.
 
-- 🎓 **Education:** BE in Electronics & Communication Engineering
+- 🎓 **Degree:** BE in Electronics & Communication Engineering
 - 🏫 **College:** Angadi Institute of Technology and Management, Belagavi
 - 📍 **Location:** Belagavi, Karnataka, India
-- 🔌 **Focus:** Embedded Systems, IoT, and VLSI Design
+- ⚡ **Interests:** Embedded Systems, IoT, VLSI Design
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### Embedded Systems & Hardware
+### Hardware & Embedded Systems
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Microcontrollers-37474F?style=for-the-badge" alt="Microcontrollers"/>
-  <img src="https://img.shields.io/badge/Sensors-607D8B?style=for-the-badge" alt="Sensors"/>
 </p>
 
-### Communication & Development Tools
+### Communication Protocols
 
 <p>
   <img src="https://img.shields.io/badge/I2C-0086B3?style=for-the-badge" alt="I2C"/>
   <img src="https://img.shields.io/badge/UART-0086B3?style=for-the-badge" alt="UART"/>
   <img src="https://img.shields.io/badge/SPI-0086B3?style=for-the-badge" alt="SPI"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
+
+### Tools
+
+<p>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -80,98 +72,94 @@ I enjoy transforming ideas into practical engineering solutions by combining har
 
 ## 🚀 Featured Projects
 
-### 📈 1. ESP32 Portable Oscilloscope
+### 📈 ESP32 Portable Oscilloscope
 
-A portable waveform-monitoring project using ESP32 and ADS1115 ADC for acquiring and visualizing electrical signals.
+A portable waveform monitoring project using ESP32 and ADS1115 ADC.
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/rahulangadi/rahul_angadi/main/Portable-Oscilloscope.jpeg"
-    alt="ESP32 Portable Oscilloscope project"
+    alt="ESP32 Portable Oscilloscope"
     width="600"
   />
 </p>
 
 **Technologies:** ESP32 · ADS1115 ADC · Embedded Systems
 
-<p>
-  <a href="https://github.com/rahulangadi/ESP32-Portable-Oscilloscope">
-    <img src="https://img.shields.io/badge/View_Project-00B8D9?style=for-the-badge&logo=github&logoColor=white" alt="View Portable Oscilloscope project"/>
-  </a>
-</p>
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulangadi/ESP32-Portable-Oscilloscope)
 
-### 💡 2. Li-Fi Optical Communication System
+### 💡 Li-Fi Optical Communication System
 
-An optical wireless communication project using an ESP32 transmitter, LED-based optical data transmission, and a solar-panel receiver.
+An optical wireless communication project using an ESP32 transmitter, LED-based data transmission, and a solar-panel receiver.
 
 **Technologies:** ESP32 · LED · Solar Panel · Optical Communication
 
-*Repository link can be added when available.*
+*Project repository link to be added.*
 
-### 🌡️ 3. Smart Ayurvedic Oil Temperature Control System
+### 🌡️ Smart Ayurvedic Oil Temperature Control System
 
-An embedded temperature-monitoring and control system designed for an Ayurvedic Basti therapy application.
+An automated temperature monitoring and control system designed for an Ayurvedic Basti therapy application.
 
 **Technologies:** ESP32 · Temperature Sensor · Relay · Heating System
 
-*Repository link can be added when available.*
+*Project repository link to be added.*
 
-### 🤖 4. Mini Smart Emotional Robot
+### 🤖 Mini Smart Emotional Robot
 
-An ESP32-based interactive robot using sensors and an OLED display to demonstrate sensor-based responses.
+An ESP32-based interactive robot using sensors and an OLED display.
 
 **Technologies:** ESP32 · Sensors · OLED Display · Embedded Programming
 
-*Repository link can be added when available.*
+*Project repository link to be added.*
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔬 VLSI Design and digital electronics
-- 🔌 Embedded Systems and firmware development
-- 🌐 IoT applications and hardware connectivity
-- 🐍 Python programming and AI/ML
+- 🔬 VLSI Design
+- ⚡ Embedded Systems and firmware development
+- 🌐 IoT applications and connectivity
+- 🐍 Python and AI/ML
 - 💻 Web Development
-- 🎨 Canva and visual design
 
 ---
 
-## 🎓 Education & Achievements
+## 🎓 Education
 
-### Bachelor of Engineering
+**Bachelor of Engineering**
 
-**Electronics & Communication Engineering**
+Electronics & Communication Engineering
 
-Angadi Institute of Technology and Management, Belagavi, Karnataka
+Angadi Institute of Technology and Management, Belagavi
 
-2023–2027
-
-### Leadership & Activities
-
-- **Design Head** — ACM Student Chapter, AITM Belagavi
-- Participating in technical projects, collaborative engineering, and hands-on development
+**2023–2027**
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Achievements & Activities
 
-I'm interested in connecting with engineers, developers, recruiters, and technology enthusiasts working in embedded systems, IoT, and semiconductor design.
+- Design Head — ACM Student Chapter, AITM Belagavi
+- Hands-on development of electronics and embedded systems projects
+- Exploring practical applications of IoT and microcontrollers
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/rahulangadi">
-    <img src="https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/rahulangadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:rahulangadi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rahul"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Learn continuously. Build practically. Engineer intelligently."</i>
+  <i>Learning continuously. Building practically. Engineering intelligently.</i>
 </p>
