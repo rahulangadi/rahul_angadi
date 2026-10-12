@@ -70,46 +70,6 @@ I enjoy transforming ideas into practical engineering solutions by combining har
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 📈 1. ESP32 Portable Oscilloscope
-
-A portable waveform monitoring project using the ESP32 and ADS1115 ADC to acquire electrical signals for waveform visualization.
-
-**Technologies:** ESP32 · ADS1115 ADC · Embedded Systems
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulangadi/rahul_angadi/main/Portable-Oscilloscope.jpeg" alt="ESP32 Portable Oscilloscope project" width="600" />
-</p>
-
-<p>
-  <a href="https://github.com/rahulangadi/ESP32-Portable-Oscilloscope">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Portable Oscilloscope project" />
-  </a>
-</p>
-
-### 💡 2. Li-Fi Optical Communication System
-
-An optical wireless communication project using an ESP32 transmitter, LED-based optical signaling, and a solar-panel receiver.
-
-**Technologies:** ESP32 · LED · Solar Panel · Optical Communication
-
-**Focus:** Transmitting and receiving data using modulated light signals.
-
-*Project repository link will be added when available.*
-
-### 🤖 3. Mini Smart Emotional Robot
-
-An interactive embedded system using an ESP32, sensors, and an OLED display to demonstrate sensor-based responses.
-
-**Technologies:** ESP32 · Sensors · OLED Display · Embedded Programming
-
-*Project repository link will be added when available.*
-
----
-
 ## 🌱 Currently Learning
 
 - 🔬 VLSI design fundamentals
