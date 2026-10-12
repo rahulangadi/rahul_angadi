@@ -1,7 +1,5 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rahulangadi/rahul_angadi/main/Rahul.png"
-    width="150"
-    alt="Rahul Angadi"
-  />
-</p>
+<h1 align="center">Hi, I'm Rahul Angadi 👋</h1>
+
+<h3 align="center">
+  Electronics & Communication Engineering | Embedded Systems | IoT | VLSI
+</h3>
