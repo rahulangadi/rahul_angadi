@@ -1,27 +1,21 @@
 
-<!-- ==================================================
-     RAHUL ANGADI | GITHUB PROFILE README
-     Theme: Dark Purple | ESP32 | Embedded Systems
-=================================================== -->
+<h1 align="center">Hi, I'm Rahul Angadi 👋</h1>
 
-<h1 align="center">Rahul Angadi 👋</h1>
-
-<h3 align="center">
-  ECE Student | Embedded Systems | IoT | VLSI
-</h3>
+<h3 align="center">ECE Student | Embedded Systems | IoT | VLSI</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-8B5CF6?style=for-the-badge" alt="Embedded Systems"/>
-  <img src="https://img.shields.io/badge/IoT-7C3AED?style=for-the-badge" alt="IoT"/>
-  <img src="https://img.shields.io/badge/VLSI_DESIGN-6D28D9?style=for-the-badge" alt="VLSI Design"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Enthusiast;Building+ESP32+and+IoT+Projects;Exploring+VLSI+Design;Learning+by+Building+Real+Solutions" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulangadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/rahulangadi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahulangadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rahulangadi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,121 +23,135 @@
 
 ## 👨‍💻 About Me
 
-I'm an Electronics & Communication Engineering student passionate about Embedded Systems, IoT, and VLSI Design. I enjoy transforming ideas into practical engineering solutions by combining hardware, firmware, sensors, and software.
+I'm an Electronics & Communication Engineering student passionate about **Embedded Systems, IoT, and VLSI Design**.
 
-Through hands-on projects using ESP32, Arduino, and microcontrollers, I continuously explore new technologies, solve technical challenges, and develop my engineering skills. My goal is to contribute to innovative technologies in embedded engineering and semiconductor design.
+I enjoy transforming ideas into practical engineering solutions by combining hardware, firmware, sensors, and software. Through hands-on projects using ESP32, Arduino, and microcontrollers, I continuously explore new technologies, solve technical challenges, and develop my engineering skills.
 
-- 🎓 **Degree:** BE in Electronics & Communication Engineering
-- 🏫 **College:** Angadi Institute of Technology and Management, Belagavi
-- 📍 **Location:** Belagavi, Karnataka, India
-- ⚡ **Interests:** Embedded Systems, IoT, and VLSI Design
+- 🔌 Interested in Embedded Systems, IoT, and semiconductor design
+- ⚡ Building hardware prototypes and microcontroller-based applications
+- 📡 Exploring optical communication and wireless technologies
+- 🧠 Continuously learning and improving my technical skills
+- 🎯 Aspiring to contribute to embedded engineering and VLSI development
+
+📍 Belagavi, Karnataka, India
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
+### 💻 Programming
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Embedded Systems & Hardware
+### 🔌 Embedded Systems & Hardware
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-7C3AED?style=for-the-badge" alt="Microcontrollers"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-### Communication Protocols
+### 🔗 Communication Protocols
 
 <p>
-  <img src="https://img.shields.io/badge/I2C-8B5CF6?style=for-the-badge" alt="I2C"/>
-  <img src="https://img.shields.io/badge/UART-7C3AED?style=for-the-badge" alt="UART"/>
-  <img src="https://img.shields.io/badge/SPI-6D28D9?style=for-the-badge" alt="SPI"/>
+  <img src="https://img.shields.io/badge/I2C-00838F?style=for-the-badge" alt="I2C" />
+  <img src="https://img.shields.io/badge/UART-1565C0?style=for-the-badge" alt="UART" />
+  <img src="https://img.shields.io/badge/SPI-6A1B9A?style=for-the-badge" alt="SPI" />
 </p>
 
-### Development Tools
+### ⚙️ Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Web_Development-7C3AED?style=for-the-badge" alt="Web Development"/>
-  <img src="https://img.shields.io/badge/Canva-8B5CF6?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 1. ESP32 Portable Oscilloscope
+
+A portable waveform monitoring project using the ESP32 and ADS1115 ADC to acquire electrical signals for waveform visualization.
+
+**Technologies:** ESP32 · ADS1115 ADC · Embedded Systems
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulangadi/rahul_angadi/main/Portable-Oscilloscope.jpeg" alt="ESP32 Portable Oscilloscope project" width="600" />
+</p>
+
+<p>
+  <a href="https://github.com/rahulangadi/ESP32-Portable-Oscilloscope">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View Portable Oscilloscope project" />
+  </a>
+</p>
+
+### 💡 2. Li-Fi Optical Communication System
+
+An optical wireless communication project using an ESP32 transmitter, LED-based optical signaling, and a solar-panel receiver.
+
+**Technologies:** ESP32 · LED · Solar Panel · Optical Communication
+
+**Focus:** Transmitting and receiving data using modulated light signals.
+
+*Project repository link will be added when available.*
+
+### 🤖 3. Mini Smart Emotional Robot
+
+An interactive embedded system using an ESP32, sensors, and an OLED display to demonstrate sensor-based responses.
+
+**Technologies:** ESP32 · Sensors · OLED Display · Embedded Programming
+
+*Project repository link will be added when available.*
 
 ---
 
 ## 🌱 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/VLSI_Design-6D28D9?style=flat-square" alt="VLSI Design"/>
-  <img src="https://img.shields.io/badge/Embedded_Systems-8B5CF6?style=flat-square" alt="Embedded Systems"/>
-  <img src="https://img.shields.io/badge/IoT-7C3AED?style=flat-square" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/AI%2FML-9333EA?style=flat-square" alt="AI and ML"/>
-</p>
-
-- 🔬 Exploring VLSI design and semiconductor technologies
-- ⚡ Improving embedded firmware and microcontroller skills
-- 🌐 Learning IoT system integration and connectivity
-- 🐍 Developing Python and AI/ML knowledge
+- 🔬 VLSI design fundamentals
+- 🔌 Embedded Systems and firmware development
+- 🌐 IoT system integration and web development
+- 🐍 Python programming
+- 🤖 Artificial Intelligence and Machine Learning
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering (BE)**
-
+**Bachelor of Engineering (BE)**  
 Electronics & Communication Engineering
 
-Angadi Institute of Technology and Management, Belagavi
+Angadi Institute of Technology and Management (AITM)  
+Belagavi, Karnataka, India
 
-**2023–2027**
+**2023 – 2027**
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Leadership & Activities
 
 - **Design Head — ACM Student Chapter, AITM Belagavi**
-- Developing practical engineering skills through electronics and embedded systems projects
-- Exploring applications of microcontrollers, IoT, and communication systems
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rahulangadi&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
-    alt="Rahul's GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulangadi&layout=compact&theme=midnight-purple&hide_border=true"
-    alt="Most used programming languages"
-    height="165"
-  />
-</p>
+- Hands-on electronics and embedded systems project development
+- Technical learning and collaborative engineering activities
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with engineers, developers, recruiters, and technology enthusiasts working in Embedded Systems, IoT, and semiconductor design.
+I'm interested in connecting with engineers, developers, recruiters, and technology enthusiasts working in Embedded Systems, IoT, and VLSI.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulangadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
+  <a href="https://github.com/rahulangadi">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rahulangadi/">LinkedIn</a> •
+  <a href="mailto:rahulangadi2003@gmail.com">Email Me</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Learn continuously. Build practically. Engineer intelligently.</i>
+  <i>"Learn continuously. Build practically. Engineer intelligently."</i>
 </p>
